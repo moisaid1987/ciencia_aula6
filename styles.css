@@ -1,0 +1,10 @@
+header{
+background-color: aquamarine;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+img{
+    border-radius: 20%;
+}
